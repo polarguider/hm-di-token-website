@@ -1,4 +1,4 @@
-# hm-di-token-website
+# Hearld and McDonald Islands Token website
 Website for Heard and McDonald Islands token (HMDI)
 <!DOCTYPE html>
 <html lang="en">
